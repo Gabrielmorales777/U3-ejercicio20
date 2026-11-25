@@ -21,4 +21,4 @@ Garantizar un registro exacto del aforo, impidiendo que el contador supere la ca
 
 Encapsulamiento · Modificadores de acceso · Control de límites · Getters · Validación de estado · Constructores
 
-![U3 ejercicio20](U3%20ejericio20.png)
+![U3 ejercicio20](U3%20ejercicio20.png)
